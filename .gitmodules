@@ -1,0 +1,4 @@
+[submodule "blog-website/public"]
+	path = blog-website/public
+	url = https://github.com/varunramesh26/varunr.xyz.git
+	branch = main
