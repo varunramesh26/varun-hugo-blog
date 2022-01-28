@@ -56,12 +56,11 @@ params:
 
     # profile-mode
     profileMode:
-        enabled: true # needs to be explicitly set
+        enabled: false # needs to be explicitly set
         #title: "Hi, I'm Varun R  \U0001F44B"
         title: "Hi, I'm Varun R."
         subtitle: "Software | Open Source | Tech"
-        imageUrl: "varun-cropped.JPG"
-        #imageUrl: "https://seccdn.libravatar.org/avatar/cd9172ce71b8d93ff109c78a497f5d48"
+        imageUrl: "<url or path to image>"
         imageWidth: 160
         imageHeight: 160
         imageTitle: my image
